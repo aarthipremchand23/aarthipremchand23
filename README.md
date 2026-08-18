@@ -77,6 +77,10 @@ Multiple linear regression tool predicting NYC Airbnb nightly price by borough, 
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/Airbnb-Rental-Arbitrage-Regression)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aarthipremchand23/Airbnb-Rental-Arbitrage-Regression/blob/main/Airbnb_Rental_Arbitrage_Dashboard.ipynb)
 
+### U.S. Provisional Natality Dynamics — Executive Dashboard
+
+Interactive Streamlit dashboard analyzing CDC provisional natality data to surface seasonal birth trajectories, demographic distributions, and state-level volume rankings. Built to support public health decision-making, it features zero-click data ingestion, dynamic filtering, and operational planning signals for maternity capacity and pediatric vaccination schedules. **Skills:** Python · Streamlit · Pandas · Plotly · Data Visualization <a href="https://github.com/aarthipremchand23/Birthstat"><img src="https://img.shields.io/badge/VIEW_REPO-1A1D24?style=for-the-badge" align="center"></a> <a href="https://birthstat-dbsge5kq8pyeni8gdwfmgq.streamlit.app/"><img src="https://img.shields.io/badge/LIVE_DASHBOARD-00997B?style=for-the-badge" align="center"></a>
+
 <!--
 To add a new project, copy this block:
 
