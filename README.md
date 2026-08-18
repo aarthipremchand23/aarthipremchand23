@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aarthi Premchand</h1>
-<h3 align="center">A passionate Data Analyst | Business Systems Analyst | Aspiring Data & AI Professional</h3>
+<h3 align="center">A passionate Data Analyst | Aspiring Data & AI Professional</h3>
 
 - 🌱 I'm currently learning **Artificial Intelligence**
 
