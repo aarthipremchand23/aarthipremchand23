@@ -71,13 +71,13 @@ Interactive Streamlit dashboard analyzing retail transaction data to surface rev
 **Skills:** Python · Pandas · Plotly · Streamlit · Data Visualization
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/NovaRetail-Customer-segmentation-dashboard)
 
-### Airbnb Rental Arbitrage — Regression Analytics Tool
+### Airbnb Rental Arbitrage — Dashboard (Supervised Learning: Predictive Modeling/Regression)
 Multiple linear regression tool predicting NYC Airbnb nightly price by borough, reviews, and availability, built to support rental-arbitrage lease decisions. Achieves R² ≈ 0.98 with no overfitting (80/20 train-test split), plus a live simulator flagging listings above a $120/night threshold.
 **Skills:** Python · scikit-learn · Gradio · Regression Analysis · Google Colab
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/Airbnb-Rental-Arbitrage-Regression)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aarthipremchand23/Airbnb-Rental-Arbitrage-Regression/blob/main/Airbnb_Rental_Arbitrage_Dashboard.ipynb)
 
-### All for Play (AfP) E-commerce — Advertising Impact Dashboard (Supervised Learning: Predictive Modeling)
+### All for Play (AfP) E-commerce — Advertising Impact Dashboard (Supervised Learning: Predictive Modeling/Regression)
 
 Multiple linear regression tool predicting monthly store sales by TikTok and Instagram advertising spend, built to support marketing investment decisions for a mid-size gaming store. Evaluates platform-specific ROI using raw regression coefficients, plus a live interactive simulator projecting expected revenue across custom budget allocations alongside dynamic 3D visualizations. **Skills:** Python • scikit-learn • Gradio • Regression Analysis • Plotly • Google Colab [![View Project](https://img.shields.io/badge/VIEW_PROJECT-141727?style=for-the-badge)](https://e44d64ccc709858e01.gradio.live/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pIp_A4GFyKo-h7xomhE0NUQDBc6cWJVe#scrollTo=LU38mHkZ6mTW)
 
