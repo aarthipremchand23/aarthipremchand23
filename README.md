@@ -64,7 +64,7 @@ I'm currently working as a Business Systems Analyst in the medical device manufa
 Unsupervised segmentation of 1,470 IBM employees using K-Means to uncover workforce clusters and their attrition risk, supporting proactive HR retention strategy for a CHRO persona. Includes Elbow/Silhouette diagnostics, interactive cluster profiling, and an employee segment simulator.
 **Skills:** Python · scikit-learn · Dash · Plotly · K-Means Clustering
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/IBM-Attrition-Clustering-Dashboard)
-[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-00A67E?style=for-the-badge)]([https://2d2aa42c-c579-4cf2-b45e-de57b967eb56.plotly.app](https://problem-free-tan-gazelle-eb5fda1d.plotly.app/)/)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-00A67E?style=for-the-badge)](https://problem-free-tan-gazelle-eb5fda1d.plotly.app/)
 
 ### NovaRetail Customer Intelligence Dashboard
 Interactive Streamlit dashboard analyzing retail transaction data to surface revenue drivers, at-risk customer segments, and channel/regional performance for commercial decision-making, with fully dynamic filtering and column-matching logic.
