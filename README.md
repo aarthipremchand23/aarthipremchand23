@@ -60,7 +60,7 @@ I'm currently working as a Business Systems Analyst in the medical device manufa
 
 ## 🚀 Projects
 
-### IBM Employee Attrition — K-Means Clustering Dashboard
+### IBM Employee Attrition — K-Means Clustering Dashboard (Unsupervised Learning)
 Unsupervised segmentation of 1,470 IBM employees using K-Means to uncover workforce clusters and their attrition risk, supporting proactive HR retention strategy for a CHRO persona. Includes Elbow/Silhouette diagnostics, interactive cluster profiling, and an employee segment simulator.
 **Skills:** Python · scikit-learn · Dash · Plotly · K-Means Clustering
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/IBM-Attrition-Clustering-Dashboard)
