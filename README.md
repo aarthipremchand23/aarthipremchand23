@@ -77,6 +77,12 @@ Multiple linear regression tool predicting NYC Airbnb nightly price by borough, 
 [![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/Airbnb-Rental-Arbitrage-Regression)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aarthipremchand23/Airbnb-Rental-Arbitrage-Regression/blob/main/Airbnb_Rental_Arbitrage_Dashboard.ipynb)
 
+### Alarm Rationalization — Nuisance Alarm Detection Dashboard (Descriptive Analytics)
+Descriptive analytics tool analyzing 47,630 alarm records across 18 oil & gas well pads to separate genuine signals from noise. Applies a two-factor nuisance definition (duration + tag repetition) to identify bad-actor equipment, quantify SMS/notification burden, and track alarm-reduction progress over six months.
+**Skills:** Python · Pandas · Streamlit · Descriptive Analytics · Data Visualization
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge)](https://github.com/aarthipremchand23/Alarm-Rationalization)
+[![Live Dashboard](https://img.shields.io/badge/Live_Dashboard-00A67E?style=for-the-badge)](https://alarm-dashboardrev0.streamlit.app/)
+
 ### All for Play (AfP) E-commerce — Advertising Impact Dashboard (Supervised Learning: Predictive Modeling/Regression)
 
 Multiple linear regression tool predicting monthly store sales by TikTok and Instagram advertising spend, built to support marketing investment decisions for a mid-size gaming store. Evaluates platform-specific ROI using raw regression coefficients, plus a live interactive simulator projecting expected revenue across custom budget allocations alongside dynamic 3D visualizations. **Skills:** Python • scikit-learn • Gradio • Regression Analysis • Plotly • Google Colab  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1pIp_A4GFyKo-h7xomhE0NUQDBc6cWJVe#scrollTo=LU38mHkZ6mTW)
